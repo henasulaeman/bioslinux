@@ -1,0 +1,11 @@
+Untuk Rencana Konfigurasi Linux RedHat 8
+1. Rubah Password Root
+2. Create user
+3. Create File
+4. Create Folder
+5. Coppy File
+6. Coppy Folder
+7. Move File dan Folder
+8. Delete File dan Folder
+9. Permision File
+10. Bersambung
