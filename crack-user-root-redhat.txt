@@ -3,10 +3,11 @@ Cara Crack Password Root di Redhat
 1.Restart terlebih dahulu system operasi anda
 2.Press "e" di keyboard
 3.presh "end" di keyboard
-4.ketik:
-5.mount remount -0 rw /sysroot (enter)
+4.ketik: rd.break (enter)
+5.amount -o remount, rw/sysroot (enter)
 6.chroot /sysroot (enter)
 7.passwd root (enter)
 8.isikan password root (enter)
-9.autorelable (enter)
-10.reboot (enter)
+9.touch /.autorelable (enter)
+10.exit (enter)
+11.reboot (enter)
